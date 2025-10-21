@@ -49,7 +49,7 @@ app.get('/', (req, res) => {
           <div class="info">
             <p><strong>Server Time:</strong> ${new Date().toLocaleString()}</p>
             <p><strong>Port:</strong> ${PORT}</p>
-            <p><strong>Status:</strong> ✅ Running</p>
+            <p><strong>Status:</strong> We are Live!</p>
           </div>
         </div>
       </body>
