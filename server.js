@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
             text-align: center;
           }
           .container {
-            background: rgba(255, 255, 255, 0.1);
+            background: black;
             padding: 50px;;
           }
           h1 {
