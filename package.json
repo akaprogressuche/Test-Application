@@ -1,0 +1,12 @@
+{
+  "name": "devops-test-app",
+  "version": "1.0.0",
+  "description": "DevOps Stage 1 Test Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
