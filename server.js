@@ -49,7 +49,6 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <div class="container">
-          <div class="emoji">🚀</div>
           <h1>Deployment Successful!</h1>
           <p>Your DevOps Stage 1 task is working perfectly!</p>
           <div class="info">
